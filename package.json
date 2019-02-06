@@ -1,0 +1,22 @@
+{
+  "name": "cli-twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "dark-twitter": "^1.0.0",
+    "firebase": "^5.8.2",
+    "firestore": "^1.1.6",
+    "inquirer": "^6.2.2",
+    "javascript-time-ago": "^2.0.1",
+    "joi": "^14.3.1",
+    "time-ago": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
